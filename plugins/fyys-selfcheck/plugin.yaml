@@ -1,0 +1,8 @@
+name: fyys-selfcheck
+version: 1.0.0
+description: "方案AI 出表强制自检：每次工具调用后，对新生成/改过的 xlsx 跑 kb_tool check；有 ❌ 塞回给模型要求重做，轮次结束仍有 ❌ 就在回复末尾标出。2026-10-26 加。"
+author: "原始业务插件作者（已脱敏）"
+hooks:
+  - pre_llm_call
+  - transform_tool_result
+  - transform_llm_output

@@ -1,0 +1,30 @@
+{
+  "description": "原始核心文件与脱敏公开副本的 SHA256；不包含内部案例和配置",
+  "files": [
+    {
+      "path": "scripts/kb_tool.py",
+      "original_sha256": "96508740e3b436be51401ba53afa80a7162af5f6ac068f9778fefae5ded202b5",
+      "public_sha256": "575343e07f5e5e71282255ac9c26acb5122f65f9631251f5cc4db91fa06dc033"
+    },
+    {
+      "path": "scripts/bidan.py",
+      "original_sha256": "1c2345d1d585026608febe6ed929aba90e4808e5628bc00252d2a1b2e77aa507",
+      "public_sha256": "d221f649aae6068a946d7e1bdd5d85dda0485f23b545fcb040ef40eaecbdb1d7"
+    },
+    {
+      "path": "scripts/exp_build.py",
+      "original_sha256": "a30e2bf7c2037702374c07943657289c3ccceb9636ec023585f37009bbb8a2ff",
+      "public_sha256": "2ff7789ed6dadcd5e0568b9130e0710375ecf4689c3ea690b7e903667bcc0af5"
+    },
+    {
+      "path": "plugins/fyys-selfcheck/__init__.py",
+      "original_sha256": "e37c04971500d97108e53dcd173f8c07bd9c97e34ac3d22874c9f3ca3e4d034f",
+      "public_sha256": "4c9e49ad0fed7a0867f5d951172d54d2473dfb1934d2994c127c6951c96e8ae5"
+    },
+    {
+      "path": "plugins/fyys-selfcheck/plugin.yaml",
+      "original_sha256": "c491790b7d939b592637d9e9df3520936bb95925ed468c602f47d757cf709228",
+      "public_sha256": "bfe1feb1543c4e00ca0cf9ff551a80deae6fc04aaf266a806b2e353f3d8f44b2"
+    }
+  ]
+}

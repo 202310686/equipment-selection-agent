@@ -1,0 +1,31 @@
+[
+  {
+    "category_code": "会议摄像机",
+    "subcategories": [
+      {
+        "subcategory_code": "会议摄像机",
+        "products": [
+          {
+            "model": "HT-DEMO-CAM4K",
+            "device_name": "4K会议摄像机",
+            "series": "会议摄像机/4K会议摄像机",
+            "available": true,
+            "technical_specs": [
+              {"key": "分辨率", "value": "4K 3840×2160"},
+              {"key": "光学变焦", "value": "12倍"}
+            ],
+            "full_official_specs": [{"full_text": "4K 3840×2160，12倍光学变焦"}]
+          },
+          {
+            "model": "HT-DEMO-CAM2K",
+            "device_name": "2K会议摄像机",
+            "series": "会议摄像机/2K会议摄像机",
+            "available": true,
+            "technical_specs": [{"key": "分辨率", "value": "2K 1920×1080"}],
+            "full_official_specs": [{"full_text": "2K 1920×1080，12倍光学变焦"}]
+          }
+        ]
+      }
+    ]
+  }
+]

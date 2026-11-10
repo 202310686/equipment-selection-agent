@@ -11,3 +11,5 @@ references/
 *.xls
 *.docx
 *.log
+demo-output/
+
